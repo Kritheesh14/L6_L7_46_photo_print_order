@@ -35,4 +35,4 @@
 ## 4. Conclusion
 Line coverage reached 100% with 13 tests, but branch coverage on the same tests was 98%.
 Adding 19 more targeted tests, mostly boundary values, brought branch coverage to 100%.
-This shows that branch coverage is a stricter measure than line coverage.
+This shows that branch coverage is a stricter measure than line coverage. 
